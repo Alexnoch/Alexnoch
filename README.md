@@ -10,3 +10,5 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=)
 ![W3C](https://img.shields.io/badge/-w3c-black?style=for-the-badge&logo=w3c&logoColor=)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexnoch&show_icons=true&theme=radical)
